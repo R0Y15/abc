@@ -1,0 +1,3 @@
+first (git add .) - incase of a new file
+second (git commit -m "message")
+third (git push origin master)
